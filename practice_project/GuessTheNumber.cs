@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace practice_project
+namespace PracticeProject
 {
-    class guess_the_number
+    class GuessTheNumber
     {
-        static void Main(string[] args)
+        public static void Play()
         {
             Console.WriteLine("Guess The Number!");
 
